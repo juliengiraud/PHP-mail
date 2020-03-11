@@ -1,6 +1,6 @@
 # Messagerie personnalisable
 
-Ce projet permet d'utiliser la fonction PHP mail à travers une page web.
+Ce projet permet d'utiliser la fonction PHP mail à travers une page web
 
 ## Accès
 
